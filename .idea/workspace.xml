@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0bfdb83-49b9-439a-83a2-fc4bfe3f77ce" name="Changes" comment="added initial jfs project _ 2023">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f0bfdb83-49b9-439a-83a2-fc4bfe3f77ce" name="Changes" comment="added extra log info" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,12 +51,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682696020066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added extra log info">
+      <created>1682696240193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682696240193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added initial jfs project _ 2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="added initial jfs project _ 2023" />
+    <MESSAGE value="added extra log info" />
+    <option name="LAST_COMMIT_MESSAGE" value="added extra log info" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

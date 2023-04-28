@@ -6,6 +6,7 @@ public class helloWorld {
         for(int i=1 ; i <= 5 ; i++)
         {
             System.out.println("welcome user : "+i);
+            System.out.println("hi");
         }
     }
 }
